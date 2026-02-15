@@ -37,16 +37,13 @@ The website will open in your browser.
 
 ### 🌍 2. Use It as a Live Website
 
-If deployed using GitHub Pages:
+Open the live link below in your browser and enjoy the experience:
 
-1. Open the live link in your browser.
-2. Click the buttons.
-3. Enjoy the Valentine interaction 💖
+👉 https://fathimashaima17.github.io/valentines/
+
+---
+repo -> https://github.com/FathimaShaima17/valentines.git
+
 
 No installation needed.  
 It runs directly in any modern web browser.
-
-## 🔗 Live Link
-
-Click here to open:
-https://github.com/FathimaShaima17/valentines.git
